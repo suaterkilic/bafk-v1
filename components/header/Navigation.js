@@ -49,14 +49,7 @@ const Navigation = () => {
                 <span>Blog</span>
               </a>
             </li>
-            <li
-              id="menu-item-3616"
-              className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3616"
-            >
-              <a href="blog/index.html">
-                <span>Test</span>
-              </a>
-            </li>
+           
             
           </ul>
           <div className="menu-trigger grid-x align-middle">
